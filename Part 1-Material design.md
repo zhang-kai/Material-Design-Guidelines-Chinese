@@ -1,4 +1,4 @@
-【说明】本部分除演示动画外已全部更新完毕，对应原文链接：https://material.io/guidelines/material-design。本翻译内容基于 [CC BY-NC-ND 3.0 CN](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/) 协议进行传播，翻译人：Kai Zhang，最后更新时间：2017.2.28。
+【说明】本部分除演示动画外已全部更新完毕，对应原文链接：https://material.io/guidelines/material-design 。本翻译内容基于 [CC BY-NC-ND 3.0 CN](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/) 协议进行传播，翻译人：Kai Zhang，最后更新时间：2017.2.28。
 
 ---
 
