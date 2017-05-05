@@ -1,3 +1,7 @@
+【说明】本部分正在更新中，对应原文第三大部分 Style：[https://material.io/guidelines/style](https://material.io/guidelines/style) 。 中文翻译最后更新时间：2017.5。（翻译人：Kai Zhang，遵循 [CC BY-NC-ND 3.0 CN](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/) 协议）
+
+---
+
 # 3.样式
 
 ## 3.1 颜色
