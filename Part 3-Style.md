@@ -1,4 +1,4 @@
-【说明】本部分正在更新中，对应原文第三大部分 Style：[https://material.io/guidelines/style](https://material.io/guidelines/style) 。 中文翻译最后更新时间：2017.5。（翻译人：Kai Zhang，遵循 [CC BY-NC-ND 3.0 CN](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/) 协议）
+【说明】本部分正在更新中，对应原文第三大部分 Style：[https://material.io/guidelines/style](https://material.io/guidelines/style) 。中文翻译最后更新时间：2017.5。（翻译人：Kai Zhang，遵循 [CC BY-NC-ND 3.0 CN](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/) 协议）
 
 ---
 
@@ -63,4 +63,43 @@
 当你创建一个颜色组合时：
 
 - 使用颜色工具以创建和应用配色于你的应用
-- 确信
+- 确保你的应用配色满足无障碍性标准，可以在两元素间产生鲜明的对比。
+
+> [在材料中表现品牌](https://design.google.com/articles/expressing-brand-in-material/)
+>
+> 一个循序渐进的让你使用材料设计保持品牌化（*staying on-brand*）的向导。
+
+##### 材料设计颜色系统
+
+在材料设计中，原色指的是在你的应用中最频繁出现的颜色，而间色指的是用来在你的用户界面中强调关键部分的颜色。
+
+从材料设计调色板中选取配色是可选的。
+
+
+
+此颜色组合包括一种原色及其明度更高和更低的（*lighter and darker*）版本，还有一种间色。
+
+
+
+在原色区域之下，相关信息使用该原色明度更高的一个版本着色。浮动活动按钮使用了间色来强调。
+
+
+
+此颜色组合包含一种原色，以及该原色明度更高和更低的版本。
+
+
+
+原色被应用于工具栏和状态栏，然而也被用于强调浮动活动按钮。
+
+##### 原色
+
+原色是贯穿于你的应用屏幕和组件，最频繁展示的颜色。如果你没有间色，原色也可以被用来强调元素。
+
+为了创建元素间的对比，你可以使用原色的色调（*tones*）中不同明度版本。色调上不同明度版本间的对比帮助展示两表面间的分割，比如状态栏和工具栏。
+
+
+
+本颜色组合
+
+##### 间色
+
