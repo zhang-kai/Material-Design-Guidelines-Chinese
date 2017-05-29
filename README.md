@@ -1,6 +1,6 @@
 # 简介
-Material Design 指南文档简体中文翻译项目。（非官方）
-The Simplified Chinese translate project of Material design guidelines. (Unofficial)
+- Material Design 指南文档简体中文翻译项目。（非官方）
+- The Simplified Chinese translate project of Material design guidelines. (Unofficial)
 
 # 说明
 - Material design 存在多种译法，最常见的为“质感设计”和“材料设计“两种，为了与文档核心内容切合，个人主张译为后者。
