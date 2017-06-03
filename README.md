@@ -22,21 +22,21 @@
 - 参照官方的常见写法，在没有得到进一步确认之前一律采用“Material design”大小写分布。
 
 # 目录
-## 第一部分 概述（Material design）
-*进度：100% 已完成 （Build 20170228）*
+### 第一部分 概述（Material design）
+【进度：100% 已完成 （Build 20170228）】
 - 1.1 介绍（Introduction）
 - 1.2 环境（Environment）
 - 1.3 材料属性（Material properties）
 - 1.4 高度和阴影（Elevation & shadows）
 - 1.5 更新内容（What’s new）
-## 第二部分 动画（Motion）
-## 第三部分 样式（Style）
-*进度：20%- 翻译中 （Build 20170603）*
+### 第二部分 动画（Motion）
+### 第三部分 样式（Style）
+【进度：20%- 翻译中 （Build 20170603）】
 - 1.1 颜色（Color）
-## 第四部分 布局（Layout）
+### 第四部分 布局（Layout）
 ### 第五部分 组件（Components）
-## 第六部分 模式（Patterns）
-## 第七部分 成长和交流（Growth & communications）
-## 第八部分 可用性（Usability）
-## 第九部分 平台（Platforms）
-## 第十部分 资源（Resources）
+### 第六部分 模式（Patterns）
+### 第七部分 成长和交流（Growth & communications）
+### 第八部分 可用性（Usability）
+### 第九部分 平台（Platforms）
+### 第十部分 资源（Resources）
