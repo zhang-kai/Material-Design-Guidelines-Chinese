@@ -1,5 +1,5 @@
 # 简介
-- Material design 指南文档简体中文翻译项目。（非官方）
+- Material design 指南简体中文翻译项目。（非官方）
 - The Simplified Chinese translate project of Material design guidelines. (Unofficial)
 
 # 状态
