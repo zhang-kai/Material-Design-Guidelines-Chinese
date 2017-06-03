@@ -23,7 +23,7 @@
 
 # 目录
 ### 第一部分 概述（Material design）
-*进度：100% 已完成 （Build 20170228）*
+> 进度：100% 已完成 （Build 20170228）
 - 1.1 介绍（Introduction）
 - 1.2 环境（Environment）
 - 1.3 材料属性（Material properties）
@@ -31,7 +31,7 @@
 - 1.5 更新内容（What’s new）
 ### 第二部分 动画（Motion）
 ### 第三部分 样式（Style）
-*进度：约10%+ 翻译中 （Build 20170603）*
+> 进度：约10%+ 翻译中 （Build 20170603）
 - 1.1 颜色（Color）
 ### 第四部分 布局（Layout）
 ### 第五部分 组件（Components）
