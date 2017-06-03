@@ -1,6 +1,6 @@
 # 简介
-- Material design 指南简体中文翻译项目。（非官方）
-- The Simplified Chinese translate project of Material design guidelines. (Unofficial)
+- 一个 Material design 指南简体中文翻译项目。（非官方）
+- A Simplified Chinese translate project of Material design guidelines. (Unofficial)
 
 # 状态
 - 未完成且缓慢更新中，具体进度参见下方目录。
