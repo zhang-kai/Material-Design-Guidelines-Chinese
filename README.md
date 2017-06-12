@@ -12,7 +12,7 @@
 - 附其他已完成翻译：1. [MDUI 版](https://www.mdui.org/design/)    2. [极客学院版](http://wiki.jikexueyuan.com/project/material-design/)
 
 # 说明
-- 本项目所有翻译内容均使用 [CC BY-NC-ND 3.0 CN](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/) 协议进行传播。
+- 本项目所有翻译内容均遵循 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议。
 - 由于 Markdown 语法限制，因此目前不提供演示动画，如有需要请自行前去对应官网页面查看。
 - 本翻译项目当前负责人为 Kai Zhang，翻译文档也将在其 [个人网站](https://kaiweb.cn) 内进行更新。
 
