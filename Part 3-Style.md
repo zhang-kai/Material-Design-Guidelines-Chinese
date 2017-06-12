@@ -1,4 +1,4 @@
-【说明】本部分正在更新中，对应原文第三大部分 Style：[https://material.io/guidelines/style](https://material.io/guidelines/style) 。中文翻译最后更新时间：2017.6.3。（翻译人：Kai Zhang，遵循 [CC BY-NC-ND 3.0 CN](https://creativecommons.org/licenses/by-nc-nd/3.0/cn/) 协议）
+【说明】本部分正在更新中，对应原文第三大部分 Style：[https://material.io/guidelines/style](https://material.io/guidelines/style) 。中文翻译最后更新时间：2017.6.12。（翻译人：Kai Zhang，遵循 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议）
 
 ---
 
